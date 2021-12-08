@@ -10,7 +10,7 @@ My name is Danny Oka. I'm a software engineer.
 
 ## Coding Philosophies
 
-1.  Code that is ugly but runs is better than code that is pretty but does not run.
+1.  It is good to write code that works, but it is better to write code that works and is maintainable.
 1.  It is better to code seeing the end from the beginning, but it's better to start writing code than to never write code in the name of perfect architecture.
 1.  Coding should be fun.
 1.  Learning a second languages will teach you more about your first language.
